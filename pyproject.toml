@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "better-ast-comments"
+packages = [{include="ast_comments"}]
 version = "1.2.1"
 description = ""
 license = "MIT"
